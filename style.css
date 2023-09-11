@@ -1,0 +1,26 @@
+.box{
+    width: 400px;
+    height: 600px;
+    background-color: aqua;
+    margin: auto;
+    border-radius: 25px;
+}
+h1{
+    font-size: 37px;
+    text-align: center;
+}   
+label{
+   font-size: 30px;
+   margin: 20px;
+   color: black;
+}
+input{
+    margin: 20px;
+    font-size: 25px;
+    border-radius: 20px;
+}
+button{
+    margin-left: 160px;
+    font-size: 26px;
+    border-radius: 25px;
+}   
